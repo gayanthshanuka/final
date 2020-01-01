@@ -1,0 +1,15 @@
+.con{
+	position: relative;
+	font-family: Arial;
+  }
+  .circular {
+	border-radius: 50%;
+
+	}
+	.column {
+		float: left;
+		width: 70%;
+		padding: 10px;
+	  }
+	  
+	 
